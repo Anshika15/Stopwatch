@@ -1,0 +1,53 @@
+body {
+  background-color: black;
+  color: white
+}
+
+label{
+    color:red;
+    font: 100px arial;
+}
+
+button {
+  
+  border-radius: 50%; 
+  font-size: 18px;
+  color: red;
+  padding: 25px 8px;
+  outline:none;
+  
+}
+
+.lap{
+    color:brown;
+    border: 2px double rgb(146, 134, 134);
+    background-color: rgb(163, 152, 152);
+
+}
+
+.stop{
+     border: 2px double rgb(187, 44, 44);
+    background-color: rgb(184, 62, 62);
+    color: tomato;
+
+}
+ .start{
+     border: 2px double rgb(91, 160, 82);
+    background-color: rgb(86, 151, 77);
+    color: black
+} 
+
+ .restart{
+     border: 2px double rgb(30, 50, 165);
+    background-color: rgb(61, 81, 146);
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.listgroup , .list-group-item{
+     background-color: black;
+     border-style: solid none solid none
+}
